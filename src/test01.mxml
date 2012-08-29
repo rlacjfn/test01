@@ -5,4 +5,16 @@
 	<fx:Declarations>
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
+	<s:VGroup>
+		<s:Label text="1"/>
+		<s:Label text="2"/>
+		<s:Label text="3"/>
+		<s:Label text="4"/>
+		<s:Label text="5"/>
+		<s:Label text="6"/>
+		<s:Label text="7"/>
+		<s:Label text="8"/>
+		<s:Label text="9"/>
+		<s:Label text="10"/>	
+	</s:VGroup>
 </s:Application>
