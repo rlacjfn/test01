@@ -15,6 +15,6 @@
 		<s:Label text="7"/>
 		<s:Label text="8"/>
 		<s:Label text="9"/>
-		<s:Label text="10"/>	
+			
 	</s:VGroup>
 </s:Application>
